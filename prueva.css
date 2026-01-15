@@ -19,3 +19,17 @@ table, td, th {
   border-collapse: separate;
   border-spacing: 15px 50px;
 }
+
+table, td, th {
+  border: 1px solid black;
+}
+
+#table1 {
+  border-collapse: separate;
+  border-spacing: 15px;
+}
+
+#table2 {
+  border-collapse: separate;
+  border-spacing: 15px 50px;
+}
